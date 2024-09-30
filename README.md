@@ -1,5 +1,5 @@
 # Project Overview.
-In the course of this Data Science internship, I created all 5 tasks uploaded on here as my project work. These tasks helped in improving my Data Science Data Analytical skills such as working on Data Cleaning and Data Visualaization, Creating Predictive Models using Linear Regresssion and
+In the course of this Data Science internship, I created all 5 tasks uploaded on here as my project work. These tasks helped in improving my Data Science and Data Analytical skills such as working on Data Cleaning and Data Visualaization, Creating Predictive Models using Linear Regresssion and
 also creating Time Serires Analysis using Python's ARIMA model in order to craete future forecast and model testing.
 
 # Data Sources.
